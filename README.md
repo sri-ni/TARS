@@ -1,10 +1,8 @@
-Vertical Timeline
+Timeline for Tracking & Analysis
 =========
 
-An easy to customize, responsive timeline.
+A customize, responsive timeline to track activities/events & analyze them.
 
-[Article on CodyHouse](http://codyhouse.co/gem/vertical-timeline/)
+These are early days and am trying to figure out if this stays a feature pattern/workflow or becomes a higher order app. Starting on the path to do work and let the work inspire future work.
 
-[Demo](http://codyhouse.co/demo/vertical-timeline/index.html)
- 
-[Terms](http://codyhouse.co/terms/)
+[Inspire by the article on CodyHouse](http://codyhouse.co/gem/vertical-timeline/)
